@@ -1,0 +1,19 @@
+{
+  "name": "colt-steele",
+  "version": "1.0.0",
+  "description": "_A repository to store all my code from Colt Steele's DSA Course_",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build-w": "tsc -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "tsc": "^2.0.4"
+  },
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
